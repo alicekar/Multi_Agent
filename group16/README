@@ -1,5 +1,5 @@
 
-This project aims in solving a special case of the Vehicle Routing Problemm with Ant Optimization Colony, implemented in Python 3.4. 
+This project aims at solving a special case of the Vehicle Routing Problemm with Ant Optimization Colony, implemented in Python 3.4. 
 
 We simulate three diffrent enviroments in respective python file,
 	MMTSP.py - Multiple-Depot Multiple Travelling Salesmen Problem
