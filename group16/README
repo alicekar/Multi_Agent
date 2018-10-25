@@ -1,5 +1,5 @@
 
-This is project works in solving a special case of the Vehicle Routing Problemm with Ant Optimization Colony, implemented in Python 3.4. 
+This project aims in solving a special case of the Vehicle Routing Problemm with Ant Optimization Colony, implemented in Python 3.4. 
 
 We simulate three diffrent enviroments in respective python file,
 	MMTSP.py - Multiple-Depot Multiple Travelling Salesmen Problem
@@ -11,7 +11,7 @@ We simulate three diffrent enviroments in respective python file,
 
 Two data structures are used, Ant and Car to symbolize the ants in the ACO algorithm and cars when the dynamic enviroment. 
 
-All files are executable with calling the main function or by simly running the file. Variables are either changed in the file, or sent in as parameters to the main function.
+All files are executable with calling the main function or by simply running the file. Variables are either changed in the file, or sent in as parameters to the main function.
 
 
 Project By Alice Karnsund and Therese Stålhandske.
